@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.row {
+  display: flex;
+}
+
+.column1 {
+  flex: 80%;
+}
+
+.column2 {
+  flex: 20%;
+}

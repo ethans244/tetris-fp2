@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "start": "vite",
+    "host": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.1.35",
+    "vite": "^4.1.4"
+  },
+  "dependencies": {
+    "firebase": "^9.17.2",
+    "lit-html": "^2.6.1",
+    "p5": "^1.6.0",
+    "p5js-wrapper": "^1.2.3"
+  }
+}
